@@ -6,9 +6,13 @@ A web application for storing photos with the following functionality:
 - Add and edit comments to the image
 - Delete uploaded photos
 
-Most of these features can be used without JavaScript (except for comment editing).
+Most of these features can be used **without JavaScript** (except for comment editing).
+
+To run the app:
+```bash
+pnpm i && pnpm dev
+```
 
 ## Video Demo
 
 https://github.com/Azarattum/ImageKeeper/assets/43073346/d57dff23-3014-4a6e-94d0-b93ebcb36304
-
